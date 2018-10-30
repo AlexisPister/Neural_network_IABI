@@ -1,0 +1,7 @@
+
+pereceptron multi couche : 2e couche : on passe la valeur du neurone dans une sigmoide
+
+etha : 10 -2
+w : initialisé a 10 - 2
+
+gh : jokfun
